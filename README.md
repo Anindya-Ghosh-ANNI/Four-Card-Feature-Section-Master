@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Anindya-Ghosh-ANNI/Four-Card-Feature-Section-Master
+- Live Site URL: https://anindya-ghosh-anni.github.io/Four-Card-Feature-Section-Master/
 
 ## My process
 
